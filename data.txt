@@ -1,0 +1,4 @@
+nik,20
+aditi,22
+rajs,10
+kek,11
